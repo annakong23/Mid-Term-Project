@@ -1,7 +1,7 @@
 /*container*/
 #idx_top { width: 100%; height: 100px;background: rgb(249, 245, 240);
 text-align: center;}
-#idx_top {padding: 30px 0; font-size: 40 px;}
+#idx_top {padding: 30px 0; font-size: 40 px;font-style:inherit;}
 
 #idx_name {font-size: 20 px; text-align: end;}
 
