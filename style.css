@@ -24,9 +24,18 @@ text-align: center;}
 }
 #idx_me {background-color: antiquewhite; text-align: left; padding-top: 1%; padding-bottom: 1%;
 }
-#idx_mbti {background-color: antiquewhite; text-align: center; padding-top: 5%;
+#idx_mbti {background-color: antiquewhite; text-align: center; 
 }
-
+#idx_hobby {background-color: antiquewhite; padding-top: 1%; padding-left: 2%;
+}
+#idx_2022 {background-color: antiquewhite;  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; 
+}
+#idx_timetable {background-color: antiquewhite;  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; 
+}
+#idx_baby {background-color: antiquewhite;  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; 
+}
+#idx_love {background-color: antiquewhite;  padding-top: 5%; padding-left: 2%; padding-bottom: 5%; 
+}
 .tbl2 {
     width: 600px;
     border-collapse: collapse;
@@ -44,5 +53,25 @@ text-align: center;}
     border: 1px solid #999;
 }
 .tbl2 td {
+    text-align:center;
+}
+
+.tbl_p1 {
+    width: 600px;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.tbl_p1 caption {
+    display: none;
+}
+
+.tbl_p1 th,
+.tbl_p1 td {
+    padding: 15px 0;
+    border: 1px solid #999;
+}
+.tbl_p1 td {
     text-align:center;
 }
